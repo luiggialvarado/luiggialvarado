@@ -32,7 +32,7 @@ App para registrar máquinas y sus incidencias. Backend con Java y Spring Boot, 
 El backend y la base de datos están en servicios gratuitos (Render y Aiven), que se apagan cuando no se usan. Si la app no muestra datos, es por eso.
 
 ### Motor Norte
-Web de un concesionario de deportivos en el Poblenou, Barcelona. HTML, CSS y JavaScript, con carretera, faros y fotos con efecto 3D.
+Web de un concesionario de deportivos inventado, en el Poblenou (Barcelona). Proyecto de clase hecho con HTML, CSS y JavaScript: los faros siguen al ratón y las fotos se inclinan en 3D.
 [Código](https://github.com/luiggialvarado/Sec-9)
 
 ## ¿CONTINUAR?
