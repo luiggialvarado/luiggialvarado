@@ -33,7 +33,7 @@ El backend y la base de datos están en servicios gratuitos (Render y Aiven), qu
 
 ### Motor Norte
 Web de un concesionario de deportivos inventado, en el Poblenou (Barcelona). Proyecto de clase hecho con HTML, CSS y JavaScript: los faros siguen al ratón y las fotos se inclinan en 3D.
-[Código](https://github.com/luiggialvarado/Sec-9)
+[Ver la web](https://luiggialvarado.github.io/Sec-9/) · [Código](https://github.com/luiggialvarado/Sec-9)
 
 ## ¿CONTINUAR?
 
