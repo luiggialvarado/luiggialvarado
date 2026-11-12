@@ -4,7 +4,7 @@
 
 ## PLAYER 1
 
-Soy Luiggi, de Barcelona. Hice el curso de Desarrollo Web Full Stack y ahora estoy de prácticas en una empresa, centrado en CSS.
+Soy Luiggi, de Barcelona. Hice el curso de Desarrollo Web Full Stack y ahora estoy de prácticas en una empresa.
 
 Antes de programar pasé más de diez años en salas recreativas, dirigiendo equipos. De ahí me viene el gusto por lo arcade, y también la costumbre de trabajar con gente y con normas claras.
 
